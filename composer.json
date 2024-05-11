@@ -1,0 +1,20 @@
+{
+    "name": "vandmade/respondify",
+    "description": "Response generator for errors and success messaging to keep everything straight forward and consistent",
+    "type": "library",
+    "license": "Apache License",
+    "autoload": {
+        "psr-4": {
+            "VanDmade\\Respondify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael D. VanDerwerker"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1",
+        "illuminate/support": "^11.3"
+    }
+}
