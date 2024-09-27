@@ -10,7 +10,8 @@
     },
     "authors": [
         {
-            "name": "Michael D. VanDerwerker"
+            "name": "Michael VanDerwerker",
+            "email": "michaelvanderwerkerllc@gmail.com"
         }
     ],
     "require": {
